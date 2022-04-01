@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1648816843 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\guia 1\06\ejercicio_06.c
+	"ejercicio_06.h"
+
+1648816814 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\guia 1\06\ejercicio_06.h
+	<stdio.h>
+	<stdlib.h>
+
+1648816872 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\guia 1\06\main.c
+	"ejercicio_06.h"
+
