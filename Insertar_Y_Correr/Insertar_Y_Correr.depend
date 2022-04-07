@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1649372945 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\guia 1\insertar_y_correr\utilitarios.c
+	"utilitarios.h"
+
+1649371523 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\guia 1\insertar_y_correr\utilitarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1649372641 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\guia 1\insertar_y_correr\main.c
+	"utilitarios.h"
+
