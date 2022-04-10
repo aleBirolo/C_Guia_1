@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1649607464 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\guia 1\matriz\main.c
+	"matriz.h"
+
+1649607473 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\guia 1\matriz\matriz.h
+	<stdio.h>
+	<stdlib.h>
+
+1649611699 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\guia 1\matriz\matriz.c
+	"matriz.h"
+

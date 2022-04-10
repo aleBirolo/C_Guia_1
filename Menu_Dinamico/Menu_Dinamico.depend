@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1649424768 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\guia 1\menu_dinamico\funciones.c
+	"menu.h"
+
+1649425059 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\guia 1\menu_dinamico\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1649425046 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\guia 1\menu_dinamico\main.c
+	"menu.h"
+

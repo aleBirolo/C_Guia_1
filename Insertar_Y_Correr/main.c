@@ -10,7 +10,7 @@ int main()
     elem=99;
     pos=9;
     ptrVec=vec;
-    printf ("%x", vec);
+
     printf ("\n Antes:\n");
     mostrarVector(vec);
 
