@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1649811085 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\guia 1\eliminarocurrencias\vector.c
+	"vector.h"
+
+1649810196 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\guia 1\eliminarocurrencias\vector.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1649811042 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\guia 1\eliminarocurrencias\main.c
+	"vector.h"
+
