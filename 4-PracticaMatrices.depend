@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1649623839 source:f:\desktop\unlam disco\ing_informatica\5to_anio\1er_cuatri\programacion(recursada)\ejercitacion\4-practicamatrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Matrix.h"
+
+1649623708 f:\desktop\unlam disco\ing_informatica\5to_anio\1er_cuatri\programacion(recursada)\ejercitacion\4-practicamatrices\matrix.h
+
+1649624055 source:f:\desktop\unlam disco\ing_informatica\5to_anio\1er_cuatri\programacion(recursada)\ejercitacion\4-practicamatrices\matrix.c
+	"Matrix.h"
+
