@@ -4,7 +4,7 @@ void printVec (int *vec, unsigned ce)// size_t == unsigned
 {
     int i;
     for (i=0; i<ce; i++)
-        printf(" pos %d: |%d| ", i,*(vec++));
+        printf("|%d| ",*(vec++));
 }
 
 int insertarEnOrden (int *vec, unsigned tam,int *ce, int dato)
@@ -119,3 +119,20 @@ int elimDatoTodasRep (int *vec,int *ce,int dato)
             pos=elimDato(vec,ce,dato);
     return pos;
 }
+int elimDatoTodasRep_V2 (int *vec,int *ce,int dato)
+{
+    int i, elim=0, aux ;
+    int *pIni=vec, *pFin=vec;
+    for (i=0; i<*ce ; i++ , pIni++, pFin++)
+    {
+        while(*pFin==dato)
+        {
+            pFin++;
+            elim++;
+            (*ce) = MAXIMO((*ce)--,0);
+        }
+        *pIni=*pFin;
+    }
+    return elim;
+}
+
