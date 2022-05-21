@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1652889125 source:f:\desktop\unlam disco\ing_informatica\5to_anio\1er_cuatri\programacion(recursada)\ejercitacion\movimientostipoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utilies.h"
+
+1652890250 f:\desktop\unlam disco\ing_informatica\5to_anio\1er_cuatri\programacion(recursada)\ejercitacion\movimientostipoparcial\utilies.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"colaDinamica.h"
+
+1652890261 source:f:\desktop\unlam disco\ing_informatica\5to_anio\1er_cuatri\programacion(recursada)\ejercitacion\movimientostipoparcial\utilies.c
+	"utilies.h"
+
+1652888342 f:\desktop\unlam disco\ing_informatica\5to_anio\1er_cuatri\programacion(recursada)\ejercitacion\movimientostipoparcial\coladinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652888629 source:f:\desktop\unlam disco\ing_informatica\5to_anio\1er_cuatri\programacion(recursada)\ejercitacion\movimientostipoparcial\coladinamica.c
+	"colaDinamica.h"
+
+1652888629 source:f:\desktop\unlam disco\ing_informatica\5to_anio\1er_cuatri\programacion(recursada)\ejercitacion\tda\movimientostipoparcial\coladinamica.c
+	"colaDinamica.h"
+
+1652888342 f:\desktop\unlam disco\ing_informatica\5to_anio\1er_cuatri\programacion(recursada)\ejercitacion\tda\movimientostipoparcial\coladinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653163141 source:f:\desktop\unlam disco\ing_informatica\5to_anio\1er_cuatri\programacion(recursada)\ejercitacion\tda\movimientostipoparcial\utilies.c
+	"utilies.h"
+
+1652890250 f:\desktop\unlam disco\ing_informatica\5to_anio\1er_cuatri\programacion(recursada)\ejercitacion\tda\movimientostipoparcial\utilies.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"colaDinamica.h"
+
+1653161706 source:f:\desktop\unlam disco\ing_informatica\5to_anio\1er_cuatri\programacion(recursada)\ejercitacion\tda\movimientostipoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utilies.h"
+
